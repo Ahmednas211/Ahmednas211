@@ -23,7 +23,7 @@ Work Experience:
 <h4>- 👨‍💻 Graduate Assistant </h4>
 <b> Oklahoma State University ·  Part-time </b> </br>
 <i>May 2021 - Present.</i> </br>
-<i>Stillwater, Oklahoma, United StatesStillwater, Oklahoma, United States.</i></br>
+<i>Stillwater, Oklahoma, United States.</i></br>
 The following are the duties I perform as a graduate assistant at Oklahoma State University.</br>
 ➤ Assumes duties for a specific research area and aids faculty members in research and creative activities.</br>
 ➤ Work plans are created in accordance with the study objectives.</br>
