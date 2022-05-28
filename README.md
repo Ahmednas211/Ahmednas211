@@ -89,6 +89,7 @@ I learned to understand quantitative data and create statistical models at STYLU
 </p>
 
 <h3> Certification </h3>
+<img src="https://raw.githubusercontent.com/Ahmednas211/Ahmednas211/main/CERTIFICATE_LANDING_PAGE_DR5AWD5J3A8Z.jpeg"/>
 <img src="https://raw.githubusercontent.com/Ahmednas211/Ahmednas211/main/SQL-Certificate.png"/>
 
 
