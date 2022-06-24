@@ -20,59 +20,53 @@ My core technical skills are:
 Work Experience:
 </h3>
 
-<h4>- 👨‍💻 Graduate Assistant </h4>
-<b> Oklahoma State University ·  Part-time </b> </br>
-<i>May 2021 - Present.</i> </br>
-<i>Stillwater, Oklahoma, United States.</i></br>
-The following are the duties I perform as a graduate assistant at Oklahoma State University.</br>
-➤ Assumes duties for a specific research area and aids faculty members in research and creative activities.</br>
-➤ Work plans are created in accordance with the study objectives.</br>
-➤ Assists with data collecting and/or conducts independent research for the unit assigned to the task.</br>
-➤ Assists in the creation and assessment of educational materials and/or curriculum.</br>
-➤ Assists with administrative, technical, or editorial tasks related to research and creative activities.</br>
-➤ As needed, prepares reports.</br>
-➤ Supervising student workers.</br>
+<h4>- 👨‍💻 DATA MANAGER </h4>
+<b> ACCESS BANK </b> </br>
+<i>JULY 2020 – JUN 2021</i> </br>
+<i>Nigeria.</i></br>
+➤ I ensured the optimum utilization of incomes by efficient planning and allocation of funds when required </br>
+➤ Reviewed and analyzed the financial data of the bank, suggesting ways to utilize each source of income to its fullest capacity </br>
+➤ I provided leadership and supporting research activities, while also guiding the research teams on research methods and tools </br>
+➤ Planned and coordinating activities with data administrator in order to ensure regular and accurate update of databases, validation of data, and fresh additions </br>
+➤ Designed and drafted feasible investment plans that promise higher returns for the organization </br>
+➤ Received monthly data from the management </br>
+➤ Designed and populated data management sheets and submitting them to the upper management on a daily basis </br>
+➤ Reported progress on a monthly basis </br>
+➤ Conducted effective customer satisfaction surveys on a regular basis </br>
+➤ I attended all compulsory training sessions as required by the bank or organization. </br>
 
-<h4>- 👨‍💻 Graduate Assistant </h4>
-<b> Texas Tech University · Part-time  </b> </br>
-<i>Jan 2021 - Aug 2021.</i> </br>
-I was able to accomplish the following tasks throughout my time at Texas Tech University.</br>
-➤ Using the SAS statistical program, evaluate the data.</br>
-➤ Conduct help sessions for students who require further assistance in economics, politics, or business.</br>
-➤ Using PostgreSQL, maintain a database and write various SQL queries and store procedures for database transactions.</br>
-➤ Grade assignments, assist with research, facilitate study sessions, and instruct students.</br>
-➤ Assist in the design of a state choice experiment for SAS and STATA analysis.</br>
-➤ Using statistical techniques (SAS), infer the results of crossing infractions and advise customers on safety precautions (CTA).</br>
+<h4>- 👨‍💻 DATA MANAGER </h4>
+<b> OCTAVE ANALYTICS AND INSIGHTS LIMITED </b> </br>
+<i>MAY 2019 – JUN 202O</i> </br>
+➤ Slashed customer churn rate by 40% by applying business risk models which increased revenue by 8%. </br>
+➤ Identified opportunities with customer segmentation which activated over 500 high-profit customers by deploying data science models and building advanced analytics dashboards to track customer patterns. </br>
+➤ I developed a new automation framework for a series of reports, thus reducing processing time in general by 65%. </br>
+➤ I conducted several business analytics trainings for business executives and top-level management in financial institutions. </br>
+➤ Automated the Extraction, Transformation and Loading (ETL) process which accelerated data integration cycles by 75%. </br>
+➤ Established data warehouse, datamarts, analytical data stores which enhanced immediate analytics and BI reporting by 90%.</br>
+➤ I provided appropriate technical documentations which boosted stakeholders understanding of data warehouse design and data analysis process by 95%. </br>
+➤ Crafted technical proposals to financial institutions on solving a myriad of business problems with data analytics. </br>
 
-<h4>- 👨‍💻 Insights Analyst </h4>
+<h4>- 👨‍💻 Policy Analyst </h4>
 <b> Ministry of Energy & Mineral Resources, Oyo State, Nigeria  </b> </br>
-<i>Jun 2018 - Nov 2020.</i> </br>
-Working as an insight analyst at the Ministry of Energy and Mineral Resources in Oyo State, Nigeria, was a fantastic experience and a learning curve for me. I helped lead the ministry analysts in both energy and mineral resources, resulting in improved performance. I was able to analyze performance and make significant advice on how to improve using my analytical talents.
-As a problem solver, this was a terrific opportunity to refine my analytical abilities, get genuine various public insight, apply statistical and technical skills, and be exposed to enormous datasets.
-As an insight analyst, I used Python, SQL, Excel, Google Analytics, Power BI, Visual Code Studio, Tableau, and other technologies.</br>
+<i>MAR 2018 - MAY 2019</i> </br>
+➤ Reviewed and evaluated legislation and policies </br>
+➤ I determined the benefits and drawbacks of existing policies </br>
+➤ Proposed suggestions to improve the effects of policies </br>
+➤ Identified legal flaws in policies and recommend amendments </br>
+➤ Edited and amended policy drafts as required </br>
+➤ Liaised with stakeholders to determine needs and goals of policies </br>
+➤ Gathered data and produce reports on the qualitative and quantitative analysis </br>
+➤ Analyzed market trends and conditions </br>
 
-<h4>- 👨‍💻Graduate Research Assistant </h4>
-<b> University of Ibadan</b> </br>
-<i>Apr 2018 - Jun 2018.</i> </br>
-I performed literature reviews and research as a Graduate Assistant at the University of Ibadan. I also improve my data collection, coding, cleaning, and analysis skills. This aided me in completing other activities such as  coding computer programs to automate processes, compiling materials for submission to funding organizations and foundations, producing technical and analytical reports, as well as developing conference presentations.</br>
+<h4>- 👨‍💻Data Analyst </h4>
+<b> STYLUS ENTERPRISE </b> </br>
+<i>OCT 2016 - FEB 2018</i> </br>
+➤ Was responsible for maintaining data collection processes and image annotation operations for computer vision projects </br>
+➤ Trained and deployed computer vision models into mobile applications for use by Farmers within the agricultural industry </br>
+➤ Created and developed Enterprise Data Warehouse that aggregates data from disparate sources within the organization </br>
+➤ Managed and automated ETL operations within the organization. </br>
 
-<h4>- 👨‍💻Presiding officer (PO) </h4>
-<b> INDEPENDENT NATIONAL ELECTORAL COMMISSION (INEC) · Contract</b> </br>
-<i>Mar 2018.</i> </br>
-As Presiding Officer, I was responsible for the smooth operation of the Polling Station to which I was assigned, ensuring that everything ran well at all times. The following are the duties I performed at my Polling Station:</br>
-➤ Ensured that all signs and notices are in placed in polling unit before Polling Day and others of Polling Day.</br>
-➤ Determined the official mark in the presence of Polling Day Staff and Polling Agents.</br>
-➤ Ensured that the persons, other than voters (e.g. Certified Political Party Agents), attending the Polling Station are authorized to enter and are in possession of Identity Cards.</br>
-➤ Determined when required, whether an elector is eligible to cast his or her vote.</br>
-➤ Made entries in the Poll Book if such are required.</br>
-➤ Ensured that all electors requiring assistance are treated in a dignified manner.</br>
-➤ Ensured that Polling Agents and observers are permitted to monitor the process without interfering with electors or with the proceedings.</br>
-➤ Ensured the queues are moving smoothly and orderly.</br>
-
-<h4>- 👨‍💻Statistical Analyst </h4>
-<b> STYLUS DATAANALYSIS AND CONSULTANCY SERVICES</b> </br>
-<i>Oct 2016 - Feb 2018</i> </br>
-I learned to understand quantitative data and create statistical models at STYLUS DATA ANALYSIS AND CONSULTANCY SERVICES, IBADAN, NIGERIA, in order to explore and address a company's problems or questions. In addition, I developed the capacity to construct my own statistical procedures to deal with the limitations of small sample sizes and firm measures. After six months, I was given the task of teaching interns how to use software such as Access, Excel, Visual Basic, and SQL.</br>
 
 
 - 💬 Ask me about **SQL, Python, Data analytics, Data Visualization**
