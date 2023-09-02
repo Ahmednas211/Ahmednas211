@@ -1,17 +1,9 @@
-<h1>Hi, I'm Ahmed! <br/><a href="https://github.com/Ahmednas211">Programmer</a>, <a href="https://www.linkedin.com/in/nasiruahmed212/">Cloud Engineer Professional</a>
+<h1>Hi, I'm Ahmed! <br/><a href="https://github.com/Ahmednas211"></a> <a href="https://www.linkedin.com/in/nasiruahmed212/">Cloud Engineer Professional</a>
 
 <h2>Cloud Engineer/Devops Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-
+  - [Hosting a Static Website with EC2](https://github.com/Ahmednas211/Jupiter-Unzipped-Repo)
 
 <h2> 🤳 Connect with me:</h2>
 
