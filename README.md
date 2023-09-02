@@ -2,7 +2,7 @@
 
 <h2>Cloud Engineer/Devops Projects:</h2>
 
-- <b>Basic Static Website Deployment Demo</b>
+- <b>**Basic Static Website Deployment Demo**</b>
   - [Hosting a Static Website with EC2](https://github.com/Ahmednas211/Jupiter-Unzipped-Repo)
 
 <h2> 🤳 Connect with me:</h2>
