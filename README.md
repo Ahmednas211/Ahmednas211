@@ -4,6 +4,7 @@
 
 - <b>**Basic Static Website Deployment Demo**</b>
   - [Hosting a Static Website with EC2](https://github.com/Ahmednas211/Jupiter-Unzipped-Repo)
+  - [Hosting a WordPress Website](https://github.com/Ahmednas211/Wordpress-using-LAMP-Stack)
 
 <h2> 🤳 Connect with me:</h2>
 
